@@ -2,4 +2,14 @@
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         new file:   gitHistory.txt
-2.)
+2.) commit 5742c5eadaa69e520d19c0ad282490e6a53e737a (HEAD -> master)
+Author: antonnesterenko2004 <tonynester2004@gmail.com>
+Date:   Wed Feb 9 13:07:31 2022 +0200
+
+    git objects description added
+3.) Папки 48, 55, 57, 74, a2, e6
+4.) commit 5742c5eadaa69e520d19c0ad282490e6a53e737a
+Author: antonnesterenko2004 <tonynester2004@gmail.com>
+Date:   Wed Feb 9 13:07:31 2022 +0200
+
+    git objects description added
