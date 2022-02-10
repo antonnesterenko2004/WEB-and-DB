@@ -7,7 +7,31 @@ Author: antonnesterenko2004 <tonynester2004@gmail.com>
 Date:   Wed Feb 9 13:07:31 2022 +0200
 
     git objects description added
-3.) Папки 48, 55, 57, 74, a2, e6
+3.) Папки 48 - 100644 blob e69de29bb2d1d6434b8b29ae775ad8c2e48c5391    Readme.txt 
+	  55 - tree 7420724b4e9df8e296b4c7c3e88f9232747e638a
+	  parent 5742c5eadaa69e520d19c0ad282490e6a53e737a
+	  author antonnesterenko2004 <tonynester2004@gmail.com> 1644407744 +0200
+	  committer antonnesterenko2004 <tonynester2004@gmail.com> 1644407744 +0200
+
+	  git log added
+
+	  57 - tree 4825bf43d4a762ae31fc78c8786a6d2b0fae4583
+	author antonnesterenko2004 <tonynester2004@gmail.com> 1644404851 +0200
+	committer antonnesterenko2004 <tonynester2004@gmail.com> 1644404851 +0200
+
+	git objects description added
+
+	  74 - 100644 blob e69de29bb2d1d6434b8b29ae775ad8c2e48c5391    Readme.txt
+	       100644 blob a2080efb823d1a7a9b2f37871dab6b1b2ae79fbb    gitHistory.txt
+
+	  a2 - 1.) On branch master
+		   Changes to be committed:
+  		   (use "git restore --staged <file>..." to unstage)
+        	    new file:   gitHistory.txt
+2.)
+
+	  e6 -  
+
 4.) commit 5742c5eadaa69e520d19c0ad282490e6a53e737a
 Author: antonnesterenko2004 <tonynester2004@gmail.com>
 Date:   Wed Feb 9 13:07:31 2022 +0200
